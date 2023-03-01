@@ -1,4 +1,5 @@
-# jk2caula2lucashiraiama
-criação da conta no github
+# jk2caula1lucashiraiama
 
-n 23 turma 2C
+nome lucas felipe hiraiama horing n 23 2C
+
+aula 1 
